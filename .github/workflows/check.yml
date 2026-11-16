@@ -1,0 +1,59 @@
+# Перевірка перенесених матчів на серверах GitHub кожні 5 хв (безкоштовно для публічного репозиторію).
+# Токен Telegram і чати — у секретах репозиторію: Settings → Secrets and variables → Actions.
+name: match-alerts
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # найчастіше, що дозволяє GitHub; на ділі запуски бувають із запізненням
+  workflow_dispatch:            # кнопка «Run workflow» для ручного запуску
+
+concurrency:
+  group: match-alerts           # два запуски одночасно не працюють
+  cancel-in-progress: false
+
+permissions:
+  contents: write               # щоб зберігати журнал сигналів у репозиторій
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore state
+        uses: actions/cache/restore@v4
+        with:
+          path: data
+          key: state-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: state-
+
+      - name: Check matches
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
+          SIGNALS_PATH: journal/signals.csv
+          GAP_MIN: "45"
+        run: python monitor.py once
+
+      - name: Save state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: state-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Save journal and keep schedule alive
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain journal)" ]; then
+            git add journal && git commit -m "нові сигнали" && git push
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 3888000 ]; then
+            # GitHub вимикає розклад, якщо в репозиторії 60 днів нічого не змінювалось
+            git commit --allow-empty -m "keepalive" && git push
+          fi
