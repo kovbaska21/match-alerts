@@ -7,3 +7,42 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-17 21:47:14,1000017039,9545,Lowland League East,SCO,Berwick Rangers,Civil Service Strollers,2026-11-17T19:45:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,-122,1,https://www.fotmob.com/match/1000017039
 2026-11-17 21:47:14,1000016772,9545,Lowland League West,SCO,Dalbeattie Star,Caledonian Braves,2026-11-17T20:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,-107,1,https://www.fotmob.com/match/1000016772
 2026-11-17 21:47:14,6505596,174,Cup,SVN,NK Rače,Radomlje,2026-11-18T16:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,18.11 14:30,18.11 18:00,1093,1,https://www.fotmob.com/match/6505596
+2026-11-18 11:31:55,5796392,232,1. CFL,MNE,Mornar,Sutjeska,2026-11-20T19:00:00.000Z,ЧАС УТОЧНЕНО,21.11 16:00,20.11 21:00,3328,1,https://www.fotmob.com/match/5796392
+2026-11-18 11:31:55,6028622,524,Stars League,IRQ,Al Zawraa,Al Talaba,2026-11-20T11:15:00.000Z,ЧАС УТОЧНЕНО,20.11 17:30,20.11 13:15,2863,1,https://www.fotmob.com/match/6028622
+2026-11-18 11:31:55,6028623,524,Stars League,IRQ,Duhok,Erbil,2026-11-20T16:15:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,19.11 15:00,20.11 18:15,3163,1,https://www.fotmob.com/match/6028623
+2026-11-18 11:31:55,1000022442,8982,I League,IND,Rajasthan United FC,Chanmari FC,2026-11-20T10:30:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,20.11 11:30,20.11 12:30,2818,1,https://www.fotmob.com/match/1000022442
+2026-11-18 11:31:56,5796391,232,1. CFL,MNE,OFK Mladost Donja Gorica,FK Arsenal Tivat,2026-11-21T12:00:00.000Z,ЧАС УТОЧНЕНО,21.11 16:00,21.11 14:00,4348,1,https://www.fotmob.com/match/5796391
+2026-11-18 11:31:56,5796393,232,1. CFL,MNE,Otrant,FK Bokelj,2026-11-21T12:00:00.000Z,ЧАС УТОЧНЕНО,21.11 16:00,21.11 14:00,4348,1,https://www.fotmob.com/match/5796393
+2026-11-18 11:31:56,5796394,232,1. CFL,MNE,Petrovac,Dečić Tuzi,2026-11-21T17:00:00.000Z,ЧАС УТОЧНЕНО,21.11 16:00,21.11 19:00,4648,1,https://www.fotmob.com/match/5796394
+2026-11-18 11:31:56,6141013,267,Premier League,BIH,BSK Banja Luka,Zrinjski Mostar,2026-11-21T12:00:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,21.11 14:00,4348,1,https://www.fotmob.com/match/6141013
+2026-11-18 11:31:56,6141016,267,Premier League,BIH,Radnik Bijeljina,FK Velež Mostar,2026-11-21T15:00:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,21.11 17:00,4528,1,https://www.fotmob.com/match/6141016
+2026-11-18 11:31:56,6141017,267,Premier League,BIH,Željezničar,Borac Banja Luka,2026-11-21T15:00:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,21.11 17:00,4528,1,https://www.fotmob.com/match/6141017
+2026-11-18 11:31:56,5975112,522,Premier League,GHA,Vision FC,Debibi,2026-11-21T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,21.11 17:00,4528,1,https://www.fotmob.com/match/5975112
+2026-11-18 11:31:56,6028619,524,Stars League,IRQ,Al-Jolan SC,Al Naft,2026-11-21T14:00:00.000Z,ЧАС УТОЧНЕНО,20.11 18:15,21.11 16:00,4468,1,https://www.fotmob.com/match/6028619
+2026-11-18 11:31:56,6028626,524,Stars League,IRQ,Newroz,Al-Karma,2026-11-21T16:30:00.000Z,ЧАС УТОЧНЕНО,21.11 15:00,21.11 18:30,4618,1,https://www.fotmob.com/match/6028626
+2026-11-18 11:31:56,6140268,8815,Super League 2,GRE,AE Larissa,Asteras Tripolis B,2026-11-21T12:45:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,21.11 14:45,4393,1,https://www.fotmob.com/match/6140268
+2026-11-18 11:31:56,6140269,8815,Super League 2,GRE,Nestos Chrisoupolis,Hellas Syros,2026-11-21T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,21.11 15:00,4408,1,https://www.fotmob.com/match/6140269
+2026-11-18 11:31:56,6140272,8815,Super League 2,GRE,Panthrakikos Komotini,Panionios,2026-11-21T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,21.11 15:00,4408,1,https://www.fotmob.com/match/6140272
+2026-11-18 11:31:56,1000024432,9126,Primera B - Championship Decider,CHI,Cobreloa,San Luis,2026-11-21T21:30:00.000Z,ЧАС УТОЧНЕНО,21.11 02:00,21.11 23:30,4918,1,https://www.fotmob.com/match/1000024432
+2026-11-18 11:31:56,1000015033,182,Super Liga,SRB,Mladost Lučani,Železničar Pančevo,2026-11-21T14:00:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,21.11 16:00,4468,1,https://www.fotmob.com/match/1000015033
+2026-11-18 11:31:56,1000015214,182,Super Liga,SRB,OFK Beograd,Novi Pazar,2026-11-21T16:00:00.000Z,ЧАС УТОЧНЕНО,21.11 16:00,21.11 18:00,4588,1,https://www.fotmob.com/match/1000015214
+2026-11-18 11:31:57,6141014,267,Premier League,BIH,Čelik Zenica,Sloga Doboj,2026-11-22T14:00:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,22.11 16:00,5908,1,https://www.fotmob.com/match/6141014
+2026-11-18 11:31:57,6141015,267,Premier League,BIH,FK Sarajevo,Široki Brijeg,2026-11-22T16:30:00.000Z,ЧАС УТОЧНЕНО,21.11 18:00,22.11 18:30,6058,1,https://www.fotmob.com/match/6141015
+2026-11-18 11:31:57,5975104,522,Premier League,GHA,Bechem United,Asante Kotoko SC,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975104
+2026-11-18 11:31:57,5975105,522,Premier League,GHA,Berekum Chelsea,Young Apostles,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975105
+2026-11-18 11:31:57,5975106,522,Premier League,GHA,Bibiani Gold Stars,All Blacks,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975106
+2026-11-18 11:31:57,5975107,522,Premier League,GHA,Dreams FC,Samartex,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975107
+2026-11-18 11:31:57,5975108,522,Premier League,GHA,Hearts of Oak,Aduana Stars,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975108
+2026-11-18 11:31:57,5975109,522,Premier League,GHA,Karela United,Holy Stars,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975109
+2026-11-18 11:31:57,5975110,522,Premier League,GHA,Medeama SC,Ashanti Gold,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975110
+2026-11-18 11:31:57,5975111,522,Premier League,GHA,Port City,Heart of Lions,2026-11-22T15:00:00.000Z,ЧАС УТОЧНЕНО,22.11 17:30,22.11 17:00,5968,1,https://www.fotmob.com/match/5975111
+2026-11-18 11:31:57,6140270,8815,Super League 2,GRE,Anagennisi Karditsas,Athens Kallithea FC,2026-11-22T10:30:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,22.11 12:30,5698,1,https://www.fotmob.com/match/6140270
+2026-11-18 11:31:57,6140271,8815,Super League 2,GRE,Olympiacos B,Kalamaria,2026-11-22T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,22.11 15:00,5848,1,https://www.fotmob.com/match/6140271
+2026-11-18 11:31:57,6140275,8815,Super League 2,GRE,Zakynthos APS,Panserraikos FC,2026-11-22T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,22.11 15:00,5848,1,https://www.fotmob.com/match/6140275
+2026-11-18 11:31:57,1000022408,11020,SWF Scottish Cup - 3rd Round,SCO,Dunipace (W),Montrose (W),2026-11-22T12:00:00.000Z,ЧАС УТОЧНЕНО,22.11 02:00,22.11 14:00,5788,1,https://www.fotmob.com/match/1000022408
+2026-11-18 11:31:57,1000022412,11020,SWF Scottish Cup - 3rd Round,SCO,Inverurie Loco Works (W),Bishopton (W),2026-11-22T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 02:00,22.11 15:00,5848,1,https://www.fotmob.com/match/1000022412
+2026-11-18 11:31:57,1000022418,11020,SWF Scottish Cup - 3rd Round,SCO,Spartans FC (W),Bonnyrigg Rose (W),2026-11-22T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 02:00,22.11 15:00,5848,1,https://www.fotmob.com/match/1000022418
+2026-11-18 11:31:57,1000022409,11020,SWF Scottish Cup - 3rd Round,SCO,Elgin City (W),Stirling University (W),2026-11-22T14:00:00.000Z,ЧАС УТОЧНЕНО,22.11 02:00,22.11 16:00,5908,1,https://www.fotmob.com/match/1000022409
+2026-11-18 11:31:57,1000022415,11020,SWF Scottish Cup - 3rd Round,SCO,Queen's Park (W),Dundee United (W),2026-11-22T16:00:00.000Z,ЧАС УТОЧНЕНО,22.11 02:00,22.11 18:00,6028,1,https://www.fotmob.com/match/1000022415
+2026-11-18 11:31:57,6140274,8815,Super League 2,GRE,Pyrgos AFC,GS Marko,2026-11-23T12:45:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,23.11 14:45,7273,1,https://www.fotmob.com/match/6140274
+2026-11-18 11:31:57,6140273,8815,Super League 2,GRE,PAOK Thessaloniki B,Niki Volou,2026-11-23T13:00:00.000Z,ЧАС УТОЧНЕНО,22.11 18:00,23.11 15:00,7288,1,https://www.fotmob.com/match/6140273
