@@ -139,3 +139,9 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-22 22:03:06,1000015041,182,Super Liga,SRB,Čukarički,Mladost Lučani,2026-11-28T15:00:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,28.11 17:00,8217,1,https://www.fotmob.com/match/1000015041
 2026-11-22 22:03:06,1000015040,182,Super Liga,SRB,FK Zemun,FK Radnički 1923,2026-11-28T17:00:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,28.11 19:00,8337,1,https://www.fotmob.com/match/1000015040
 2026-11-22 22:03:06,1000015038,182,Super Liga,SRB,Partizan Beograd,Radnički Niš,2026-11-28T17:30:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,28.11 19:30,8367,1,https://www.fotmob.com/match/1000015038
+2026-11-23 02:29:04,5996770,519,Premier League,EGY,Al Sharkeyah-ENPPI,Ceramica Cleopatra,2026-11-25T18:00:00.000Z,ЧАС УТОЧНЕНО,25.11 17:00,25.11 20:00,3811,1,https://www.fotmob.com/match/5996770
+2026-11-23 02:29:05,1000015037,182,Super Liga,SRB,FK IMT Beograd,Mačva Šabac,2026-11-27T16:00:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,27.11 18:00,6571,1,https://www.fotmob.com/match/1000015037
+2026-11-23 02:29:05,6018589,529,Premier League,KUW,Al Nasr,Al-Jahra,2026-11-29T18:45:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,22.11 20:45,29.11 20:45,9616,1,https://www.fotmob.com/match/6018589
+2026-11-23 02:29:05,6141489,529,Premier League,KUW,Al Sahel SC,Al-Shabab SC,2026-11-29T18:45:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,22.11 20:45,29.11 20:45,9616,1,https://www.fotmob.com/match/6141489
+2026-11-23 02:29:05,1000015043,182,Super Liga,SRB,Novi Pazar,FK Crvena Zvezda,2026-11-29T14:30:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,29.11 16:30,9361,1,https://www.fotmob.com/match/1000015043
+2026-11-23 02:29:05,1000015042,182,Super Liga,SRB,Železničar Pančevo,OFK Beograd,2026-11-29T16:00:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,29.11 18:00,9451,1,https://www.fotmob.com/match/1000015042
