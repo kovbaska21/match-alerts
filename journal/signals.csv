@@ -162,3 +162,39 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-24 06:15:25,6018591,529,Premier League,KUW,Kazma,Al Fahaheel,2026-11-30T18:45:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,20.11 20:45,30.11 20:45,9390,1,https://www.fotmob.com/match/6018591
 2026-11-24 06:15:25,1000022855,230,Liga MX - Apertura - Quarter-finals,MEX,Chivas,Pachuca,2026-11-30T01:07:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,30.11 03:07,8332,1,https://www.fotmob.com/match/1000022855
 2026-11-24 06:15:25,1000022856,230,Liga MX - Apertura - Quarter-finals,MEX,Cruz Azul,León,2026-11-30T03:00:00.000Z,ЧАС УТОЧНЕНО,28.11 02:00,30.11 05:00,8445,1,https://www.fotmob.com/match/1000022856
+2026-11-24 17:46:49,6103140,533,NPFL,NGA,Sporting Lagos,Enugu Rangers,2026-11-25T15:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1273,1,https://www.fotmob.com/match/6103140
+2026-11-24 17:46:49,6015575,142,EFL Trophy - Northern Group G,ENG,Fleetwood Town,Leeds United U21,2026-11-25T19:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,24.11 21:00,25.11 21:00,1513,1,https://www.fotmob.com/match/6015575
+2026-11-24 17:46:49,6735151,8938,Australian Championship,AUS,South Melbourne,Oakleigh Cannons,2026-11-26T08:30:00.000Z,ЧАС УТОЧНЕНО,28.11 06:00,26.11 10:30,2323,1,https://www.fotmob.com/match/6735151
+2026-11-24 17:46:50,6735963,8938,Australian Championship,AUS,Broadmeadow Magic,Lions FC,2026-11-27T08:30:00.000Z,ЧАС УТОЧНЕНО,28.11 06:00,27.11 10:30,3763,1,https://www.fotmob.com/match/6735963
+2026-11-24 17:46:50,5944220,260,Kategoria Superiore,ALB,KF Tirana,Skënderbeu,2026-11-27T12:30:00.000Z,ЧАС УТОЧНЕНО,28.11 14:30,27.11 14:30,4003,1,https://www.fotmob.com/match/5944220
+2026-11-24 17:46:50,6141019,267,Premier League,BIH,Čelik Zenica,BSK Banja Luka,2026-11-27T17:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:00,27.11 19:00,4273,1,https://www.fotmob.com/match/6141019
+2026-11-24 17:46:50,1000017476,199,Division Profesional,PAR,Nacional,Rubio Ñú,2026-11-27T20:30:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,27.11 22:30,4483,1,https://www.fotmob.com/match/1000017476
+2026-11-24 17:46:50,1000017473,199,Division Profesional,PAR,Luqueño,Olimpia,2026-11-27T23:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,28.11 01:00,4633,1,https://www.fotmob.com/match/1000017473
+2026-11-24 17:46:50,6735150,8938,Australian Championship,AUS,Bayswater City,Sydney United 58,2026-11-28T08:30:00.000Z,ЧАС УТОЧНЕНО,28.11 06:00,28.11 10:30,5203,1,https://www.fotmob.com/match/6735150
+2026-11-24 17:46:50,6050559,544,Ligue I,TUN,CA Bizertin,Zarzis,2026-11-28T13:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:30,28.11 15:00,5473,1,https://www.fotmob.com/match/6050559
+2026-11-24 17:46:50,6050564,544,Ligue I,TUN,Etoile Métlaoui,Ben Guerdane,2026-11-28T13:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:30,28.11 15:00,5473,1,https://www.fotmob.com/match/6050564
+2026-11-24 17:46:50,6050565,544,Ligue I,TUN,PS Sakiet Eddaïer,Stade Tunisien,2026-11-28T13:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:30,28.11 15:00,5473,1,https://www.fotmob.com/match/6050565
+2026-11-24 17:46:50,6690251,9039,LPF Apertura,PAN,San Francisco FC,CD Árabe Unido,2026-11-28T01:30:00.000Z,ЧАС УТОЧНЕНО,28.11 23:00,28.11 03:30,4783,1,https://www.fotmob.com/match/6690251
+2026-11-24 17:46:50,6141021,267,Premier League,BIH,Sloga Doboj,Radnik Bijeljina,2026-11-28T12:30:00.000Z,ЧАС УТОЧНЕНО,28.11 18:00,28.11 14:30,5443,1,https://www.fotmob.com/match/6141021
+2026-11-24 17:46:50,6141022,267,Premier League,BIH,FK Velež Mostar,Željezničar,2026-11-28T15:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:00,28.11 17:00,5593,1,https://www.fotmob.com/match/6141022
+2026-11-24 17:46:50,6141020,267,Premier League,BIH,Široki Brijeg,Zrinjski Mostar,2026-11-28T17:30:00.000Z,ЧАС УТОЧНЕНО,28.11 18:00,28.11 19:30,5743,1,https://www.fotmob.com/match/6141020
+2026-11-24 17:46:50,5883756,8968,Primera Federacion - Group 2,ESP,Juventud Torremolinos CF,Cartagena,2026-11-28T17:45:00.000Z,ЧАС УТОЧНЕНО,29.11 13:00,28.11 19:45,5758,1,https://www.fotmob.com/match/5883756
+2026-11-24 17:46:50,5883750,8968,Primera Federacion - Group 2,ESP,CE Europa,Villarreal B,2026-11-28T18:00:00.000Z,ЧАС УТОЧНЕНО,29.11 13:00,28.11 20:00,5773,1,https://www.fotmob.com/match/5883750
+2026-11-24 17:46:50,5884267,9138,Segunda Federacion - Group 1,ESP,Arosa SC,Real Oviedo B,2026-11-28T16:00:00.000Z,ЧАС УТОЧНЕНО,28.11 19:30,28.11 18:00,5653,1,https://www.fotmob.com/match/5884267
+2026-11-24 17:46:50,5885613,9138,Segunda Federacion - Group 5,ESP,RSD Alcalá,Real Ávila,2026-11-28T16:00:00.000Z,ЧАС УТОЧНЕНО,29.11 13:00,28.11 18:00,5653,1,https://www.fotmob.com/match/5885613
+2026-11-24 17:46:50,6140281,8815,Super League 2,GRE,GS Marko,PAOK Thessaloniki B,2026-11-28T12:45:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,28.11 14:45,5458,1,https://www.fotmob.com/match/6140281
+2026-11-24 17:46:50,6140276,8815,Super League 2,GRE,Asteras Tripolis B,Niki Volou,2026-11-28T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,28.11 15:00,5473,1,https://www.fotmob.com/match/6140276
+2026-11-24 17:46:50,6140283,8815,Super League 2,GRE,Panserraikos FC,Pyrgos AFC,2026-11-28T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,28.11 15:00,5473,1,https://www.fotmob.com/match/6140283
+2026-11-24 17:46:50,5200711,540,Superliga,UZB,Qizilqum Zarafshon,Pakhtakor Tashkent,2026-11-28T11:15:00.000Z,ЧАС УТОЧНЕНО,28.11 14:00,28.11 13:15,5368,1,https://www.fotmob.com/match/5200711
+2026-11-24 17:46:50,1000017472,199,Division Profesional,PAR,Sportivo Trinidense,Recoleta,2026-11-28T23:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,29.11 01:00,6073,1,https://www.fotmob.com/match/1000017472
+2026-11-24 17:46:51,6050562,544,Ligue I,TUN,CS Hammam-Lif,Olympique de Béja,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:30,29.11 15:00,6913,1,https://www.fotmob.com/match/6050562
+2026-11-24 17:46:51,6050563,544,Ligue I,TUN,JS Omrane,US Monastir,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,28.11 18:30,29.11 15:00,6913,1,https://www.fotmob.com/match/6050563
+2026-11-24 17:46:51,6690250,9039,LPF Apertura,PAN,CD Plaza Amador,Tauro FC,2026-11-29T01:30:00.000Z,ЧАС УТОЧНЕНО,28.11 23:00,29.11 03:30,6223,1,https://www.fotmob.com/match/6690250
+2026-11-24 17:46:51,6141018,267,Premier League,BIH,Borac Banja Luka,FK Sarajevo,2026-11-29T16:30:00.000Z,ЧАС УТОЧНЕНО,28.11 18:00,29.11 18:30,7123,1,https://www.fotmob.com/match/6141018
+2026-11-24 17:46:51,5885308,9138,Segunda Federacion - Group 4,ESP,Las Palmas B,CD Estepona,2026-11-29T11:30:00.000Z,ЧАС УТОЧНЕНО,29.11 14:00,29.11 13:30,6823,1,https://www.fotmob.com/match/5885308
+2026-11-24 17:46:51,5884587,9138,Segunda Federacion - Group 2,ESP,CE Manresa,Girona B,2026-11-29T17:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 19:00,7153,1,https://www.fotmob.com/match/5884587
+2026-11-24 17:46:51,6140278,8815,Super League 2,GRE,Hellas Syros,AE Larissa,2026-11-29T10:30:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 12:30,6763,1,https://www.fotmob.com/match/6140278
+2026-11-24 17:46:51,6140280,8815,Super League 2,GRE,Anagennisi Karditsas,Olympiacos B,2026-11-29T12:45:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 14:45,6898,1,https://www.fotmob.com/match/6140280
+2026-11-24 17:46:51,6140279,8815,Super League 2,GRE,Kalamaria,Panthrakikos Komotini,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 15:00,6913,1,https://www.fotmob.com/match/6140279
+2026-11-24 17:46:51,6140282,8815,Super League 2,GRE,Panionios,Nestos Chrisoupolis,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 15:00,6913,1,https://www.fotmob.com/match/6140282
+2026-11-24 17:46:51,6140277,8815,Super League 2,GRE,Athens Kallithea FC,Zakynthos APS,2026-11-30T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,30.11 15:00,8353,1,https://www.fotmob.com/match/6140277
