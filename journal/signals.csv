@@ -198,3 +198,17 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-24 17:46:51,6140279,8815,Super League 2,GRE,Kalamaria,Panthrakikos Komotini,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 15:00,6913,1,https://www.fotmob.com/match/6140279
 2026-11-24 17:46:51,6140282,8815,Super League 2,GRE,Panionios,Nestos Chrisoupolis,2026-11-29T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,29.11 15:00,6913,1,https://www.fotmob.com/match/6140282
 2026-11-24 17:46:51,6140277,8815,Super League 2,GRE,Athens Kallithea FC,Zakynthos APS,2026-11-30T13:00:00.000Z,ЧАС УТОЧНЕНО,29.11 18:00,30.11 15:00,8353,1,https://www.fotmob.com/match/6140277
+2026-11-25 01:37:50,6672243,8965,Primera Nacional Promotion Playoff,ARG,Atlanta,Ciudad de Bolívar,2026-11-27T22:00:00.000Z,ЧАС УТОЧНЕНО,28.11 23:00,28.11 00:00,4102,1,https://www.fotmob.com/match/6672243
+2026-11-25 01:37:50,6672244,8965,Primera Nacional Promotion Playoff,ARG,Deportivo Morón,Colón,2026-11-28T00:00:00.000Z,ЧАС УТОЧНЕНО,28.11 23:00,28.11 02:00,4222,1,https://www.fotmob.com/match/6672244
+2026-11-25 01:37:51,1000017478,199,Division Profesional,PAR,2 de Mayo,Nacional,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017478
+2026-11-25 01:37:51,1000017482,199,Division Profesional,PAR,Guaraní,Sportivo Trinidense,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017482
+2026-11-25 01:37:51,1000017480,199,Division Profesional,PAR,Olimpia,Sportivo San Lorenzo,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017480
+2026-11-25 01:37:51,1000017481,199,Division Profesional,PAR,Recoleta,Luqueño,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017481
+2026-11-25 01:37:51,1000017477,199,Division Profesional,PAR,Rubio Ñú,Cerro Porteño,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017477
+2026-11-25 01:37:51,1000017479,199,Division Profesional,PAR,Sportivo Ameliano,Libertad,2026-11-29T00:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,5662,1,https://www.fotmob.com/match/1000017479
+2026-11-25 01:37:51,1000017471,199,Division Profesional,PAR,Cerro Porteño,Guaraní,2026-11-29T20:30:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,29.11 22:30,6892,1,https://www.fotmob.com/match/1000017471
+2026-11-25 01:37:51,1000017475,199,Division Profesional,PAR,Libertad,2 de Mayo,2026-11-29T23:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,30.11 01:00,7042,1,https://www.fotmob.com/match/1000017475
+2026-11-25 01:37:51,1000017474,199,Division Profesional,PAR,Sportivo San Lorenzo,Sportivo Ameliano,2026-11-29T23:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,25.11 02:00,30.11 01:00,7042,1,https://www.fotmob.com/match/1000017474
+2026-11-25 01:37:51,1000024634,131,Liga 1 - Championship - Semi-finals,PER,Sport Huancayo,Universitario de Deportes,2026-11-29T20:00:00.000Z,ЧАС УТОЧНЕНО,28.11 22:00,29.11 22:00,6862,1,https://www.fotmob.com/match/1000024634
+2026-11-25 01:37:51,6018590,529,Premier League,KUW,Al-Tadhamon,Al-Arabi,2026-12-01T18:45:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,21.11 20:45,01.12 20:45,9667,1,https://www.fotmob.com/match/6018590
+2026-11-25 01:37:51,6018588,529,Premier League,KUW,Kuwait SC,Al-Salmiyah,2026-12-01T18:45:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,20.11 20:45,01.12 20:45,9667,1,https://www.fotmob.com/match/6018588
