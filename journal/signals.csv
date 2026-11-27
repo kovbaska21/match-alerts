@@ -270,3 +270,13 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-27 02:58:10,1000022420,11020,SWF Scottish Cup - 3rd Round,SCO,Westdyke (W),St. Johnstone (W),2026-11-29T15:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,22.11 17:00,29.11 17:00,3602,1,https://www.fotmob.com/match/1000022420
 2026-11-27 02:58:10,1000021274,9468,CAF Confed Cup - 2nd Preliminary Round,INT,CR Bélouizdad,AS Douanes,2026-12-01T19:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,27.11 21:00,01.12 21:00,6722,1,https://www.fotmob.com/match/1000021274
 2026-11-27 02:58:11,6538709,9682,CONCACAF Central American Cup,INT,C.S. Cartaginés,LD Alajuelense,2026-12-03T01:00:00.000Z,ЧАС УТОЧНЕНО,02.12 23:00,03.12 03:00,8522,1,https://www.fotmob.com/match/6538709
+2026-11-27 11:42:28,5832965,111,Eerste Divisie,NED,FC Dordrecht,Vitesse,2026-11-27T19:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,438,1,https://www.fotmob.com/match/5832965
+2026-11-27 11:42:28,5832967,111,Eerste Divisie,NED,Jong AZ Alkmaar,TOP Oss,2026-11-27T19:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,438,1,https://www.fotmob.com/match/5832967
+2026-11-27 11:42:28,5832968,111,Eerste Divisie,NED,Jong FC Utrecht,Almere City FC,2026-11-27T19:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,438,1,https://www.fotmob.com/match/5832968
+2026-11-27 11:42:28,5832971,111,Eerste Divisie,NED,VVV-Venlo,RKC Waalwijk,2026-11-27T19:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,438,1,https://www.fotmob.com/match/5832971
+2026-11-27 11:42:28,5910950,512,Regionalliga Northeast,GER,Chemnitzer FC,Hertha Berlin II,2026-11-27T18:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,378,1,https://www.fotmob.com/match/5910950
+2026-11-27 11:42:29,5875030,119,2. Liga,AUT,SKU Amstetten,SKN St. Pölten,2026-11-28T14:30:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,27.11 19:30,28.11 16:30,1608,1,https://www.fotmob.com/match/5875030
+2026-11-27 11:42:29,5910947,512,Regionalliga Northeast,GER,VSG Altglienicke,Erzgebirge Aue,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1518,1,https://www.fotmob.com/match/5910947
+2026-11-27 11:42:29,6735153,9213,Primera B Metropolitana Promotion Playoff,ARG,CASD Camioneros,CA Talleres Remedios de Escalada,2026-11-29T20:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 22:00,29.11 22:00,3378,1,https://www.fotmob.com/match/6735153
+2026-11-27 11:42:29,6735152,9213,Primera B Metropolitana Promotion Playoff,ARG,Deportivo Armenio,Arsenal Sarandi,2026-11-29T20:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 22:00,29.11 22:00,3378,1,https://www.fotmob.com/match/6735152
+2026-11-27 11:42:29,5910955,512,Regionalliga Northeast,GER,FSV Zwickau,Carl Zeiss Jena,2026-11-29T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,2958,1,https://www.fotmob.com/match/5910955
