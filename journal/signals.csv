@@ -280,3 +280,32 @@ detected_utc,match_id,league_id,league,country,home,away,kickoff_utc,event,old,n
 2026-11-27 11:42:29,6735153,9213,Primera B Metropolitana Promotion Playoff,ARG,CASD Camioneros,CA Talleres Remedios de Escalada,2026-11-29T20:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 22:00,29.11 22:00,3378,1,https://www.fotmob.com/match/6735153
 2026-11-27 11:42:29,6735152,9213,Primera B Metropolitana Promotion Playoff,ARG,Deportivo Armenio,Arsenal Sarandi,2026-11-29T20:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 22:00,29.11 22:00,3378,1,https://www.fotmob.com/match/6735152
 2026-11-27 11:42:29,5910955,512,Regionalliga Northeast,GER,FSV Zwickau,Carl Zeiss Jena,2026-11-29T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,2958,1,https://www.fotmob.com/match/5910955
+2026-11-27 20:19:06,5911639,512,Regionalliga Bayern,GER,SpVgg Bayreuth,Greuther Fürth II,2026-11-27T18:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,-139,1,https://www.fotmob.com/match/5911639
+2026-11-27 20:19:06,6028637,524,Stars League,IRQ,Zakho,Karbalaa,2026-11-27T13:30:00.000Z,ТЕХНІЧНИЙ РЕЗУЛЬТАТ,за розкладом,AW,-409,1,https://www.fotmob.com/match/6028637
+2026-11-27 20:19:06,5911637,512,Regionalliga Bayern,GER,Ansbach,FC Memmingen,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911637
+2026-11-27 20:19:06,5911644,512,Regionalliga Bayern,GER,DJK Vilzing,SC Eltersdorf,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911644
+2026-11-27 20:19:06,5911640,512,Regionalliga Bayern,GER,VfB Eichstätt,TSV Buchbach,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911640
+2026-11-27 20:19:06,5911977,512,Regionalliga North,GER,Eimsbütteler TV,Eintracht Norderstedt,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911977
+2026-11-27 20:19:06,5911982,512,Regionalliga North,GER,Oldenburg,SV Todesfelde,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911982
+2026-11-27 20:19:06,5911980,512,Regionalliga North,GER,SC Weiche Flensburg,HSC Hannover,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911980
+2026-11-27 20:19:06,5911979,512,Regionalliga North,GER,Schöningen,Werder Bremen II,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911979
+2026-11-27 20:19:06,5911975,512,Regionalliga North,GER,SV Atlas Delmenhorst,SSV Jeddeloh,2026-11-28T14:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1061,1,https://www.fotmob.com/match/5911975
+2026-11-27 20:19:06,5910953,512,Regionalliga Northeast,GER,RSV Eintracht 1949,BFC Preussen,2026-11-28T12:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,941,1,https://www.fotmob.com/match/5910953
+2026-11-27 20:19:06,5916132,512,Regionalliga Southwest,GER,TSV Steinbach,Sandhausen,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5916132
+2026-11-27 20:19:06,5911273,512,Regionalliga West,GER,FC Gütersloh,Sportfreunde Lotte,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911273
+2026-11-27 20:19:06,5911279,512,Regionalliga West,GER,SC Wiedenbrück,FC Köln II,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911279
+2026-11-27 20:19:06,5911276,512,Regionalliga West,GER,SV Rödinghausen,Borussia Mönchengladbach II,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911276
+2026-11-27 20:19:06,5911277,512,Regionalliga West,GER,Wattenscheid,Bergisch Gladbach,2026-11-28T13:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,1001,1,https://www.fotmob.com/match/5911277
+2026-11-27 20:19:06,6636851,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,Chinese Taipei (W),South Africa (W),2026-11-28T14:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 15:00,28.11 16:00,1061,1,https://www.fotmob.com/match/6636851
+2026-11-27 20:19:06,6636852,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,Uzbekistan (W),Papua New Guinea (W),2026-11-28T16:30:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 17:30,28.11 18:30,1211,1,https://www.fotmob.com/match/6636852
+2026-11-27 20:19:06,6636853,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,Ghana (W),Ecuador (W),2026-11-28T19:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,28.11 20:00,28.11 21:00,1361,1,https://www.fotmob.com/match/6636853
+2026-11-27 20:19:06,1000022395,144,Primera División,BOL,ABB,Real Tomayapo,2026-11-28T00:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,27.11 21:00,28.11 02:00,221,1,https://www.fotmob.com/match/1000022395
+2026-11-27 20:19:07,6683959,9213,Federal A Promotion Playoff,ARG,Olimpo,Douglas Haig,2026-11-29T23:00:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,29.11 22:00,30.11 01:00,3041,1,https://www.fotmob.com/match/6683959
+2026-11-27 20:19:07,5862769,8935,II Liga,POL,Rekord Bielsko-Biała,Lechia Zielona Góra,2026-11-29T11:00:00.000Z,ПЕРЕНЕСЕНО,за розкладом,PP,2321,1,https://www.fotmob.com/match/5862769
+2026-11-27 20:19:07,6018589,529,Premier League,KUW,Al Nasr,Al-Jahra,2026-11-29T16:40:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,29.11 20:45,29.11 18:40,2661,1,https://www.fotmob.com/match/6018589
+2026-11-27 20:19:07,6141489,529,Premier League,KUW,Al Sahel SC,Al-Shabab SC,2026-11-29T16:40:00.000Z,ЗМІНИЛИ ЧАС ПОЧАТКУ,29.11 20:45,29.11 18:40,2661,1,https://www.fotmob.com/match/6141489
+2026-11-27 20:19:07,6141490,529,Premier League,KUW,Al-Salibikhaet,Al-Qadsia,2026-11-30T16:40:00.000Z,ЧАС УТОЧНЕНО,30.11 20:45,30.11 18:40,4101,1,https://www.fotmob.com/match/6141490
+2026-11-27 20:19:07,6018591,529,Premier League,KUW,Kazma,Al Fahaheel,2026-11-30T16:40:00.000Z,ЧАС УТОЧНЕНО,30.11 20:45,30.11 18:40,4101,1,https://www.fotmob.com/match/6018591
+2026-11-27 20:19:07,6636854,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,Papua New Guinea (W),Chinese Taipei (W),2026-12-01T14:00:00.000Z,ЧАС УТОЧНЕНО,01.12 15:00,01.12 16:00,5381,1,https://www.fotmob.com/match/6636854
+2026-11-27 20:19:07,6636855,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,Uzbekistan (W),Ghana (W),2026-12-01T16:30:00.000Z,ЧАС УТОЧНЕНО,01.12 17:30,01.12 18:30,5531,1,https://www.fotmob.com/match/6636855
+2026-11-27 20:19:07,6636856,10359,Women's World Cup Qualification Inter-Confederation Group Phase,INT,South Africa (W),Ecuador (W),2026-12-01T19:00:00.000Z,ЧАС УТОЧНЕНО,01.12 20:00,01.12 21:00,5681,1,https://www.fotmob.com/match/6636856
